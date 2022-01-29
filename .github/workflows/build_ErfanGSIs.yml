@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.4.27/miui_MIMIX3_20.4.27_8f7879221b_10.0.zip
+  ROM_URL: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CPbSR6bb1YZXcIYPsiwOQ0JLYBs_j-d5nvPTL45kN5fjVgdchEAEg-aaaJGDJ3uiGyKOQGaABucr4qwLIAQmoAwHIA8sEqgTpAU_QlomaLfNA1TdJPyQH20qTzOKSlnXh-RDBHmESQQb_vjN_1ix1d-hR1Qw__rHmOalHEYvgZi3lXwczPKI5mW0O_PeGpl6c449xpo8weWcc1Zvu57YPl-JBB63H3tF5H6_2dA-a9mFHZV4lMJJLVJ30PIIU4oD2uqW1M35XtdqGLHpqzELiGyFUOyQb5oNIvz6teLAAJt1dOXMIpqKt3BJ-mZbhfC-MGcehRVpjOthwkqkCol62bRzgeuVGHDmpEKfrYikSHt7EJGkzaeR14yk2b6pnJFTvsW79Vo8bck-F5ZF1c7NFDksSwASB-uXLrwOgBi6AB6-1h9QBqAeOzhuoB5PYG6gH7paxAqgH_p6xAqgH1ckbqAemvhuoB_PRG6gHltgbqAeqm7ECqAffn7EC2AcA0ggHCIhhEAEYH7EJT6Ehi9QmamSACgGYCwHICwGADAG4DAG4E4gn2BMK0BUB-BYBgBcB&ae=1&num=1&cid=CAASFeRocAMKvtl6R56nYTqeKcWTdJyiAA&sig=AOD64_2IHfzB0RuRu-BTMbDXnkQPfDQSMg&client=ca-pub-3257146945160733&nb=8&adurl=https://go.incorta.com/cfo-ebook%3Futm_term%3D%26utm_campaign%3DD01:%2BCFO%2BeBook%2B2021:%2BDisplay%26utm_source%3Dadwords%26utm_medium%3Dppc%26hsa_acc%3D9473162852%26hsa_cam%3D12232092139%26hsa_grp%3D115854638337%26hsa_ad%3D499622452317%26hsa_src%3Dd%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gclid%3DEAIaIQobChMI1fSU8vjX9QIVA_ZiCh0QqARrEAEYASAAEgKuP_D_BwE
   ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
