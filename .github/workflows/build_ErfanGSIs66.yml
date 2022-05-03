@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/9.6.27/miui_MI8Global_9.6.27_7e6ce8a462_9.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: http://dl-res.flymeos.com/Firmware/Flyme/16th/7.3.0.0/intl/20190424152828/b83950ed/update.zip
+  ROM_NAME: flyme
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
